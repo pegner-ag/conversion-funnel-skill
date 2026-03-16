@@ -19,7 +19,7 @@ When you say "build me a landing page" or "create a sales funnel", Claude Code a
 ## Install
 
 ```bash
-npx skills add pegner-ag/conversion-funnel-skill-
+npx skills add pegner-ag/conversion-funnel-skill
 ```
 
 ## Trigger phrases
